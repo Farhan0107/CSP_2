@@ -1,5 +1,11 @@
 Topic: AI and Loan Mortage Approvals
-Teammates: Adityavardhan Singh Rathore, Asha Sanjaykumar Bhola, Farhan Khan, Greeshmita Movva, Jeevan Reddy Miriyala
+
+Teammates: 
+  - Adityavardhan Singh Rathore
+  - Asha Sanjaykumar Bhola
+  - Farhan Khan
+  - Greeshmita Movva
+  - Jeevan Reddy Miriyala
 
 Problem Statement: 
   - Loan approval decisions are often manual and time-consuming
